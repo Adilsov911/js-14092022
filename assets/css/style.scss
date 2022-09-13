@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box{
+    display: flex;
+    background-color: brown;
+    color: #fff;
+    justify-content: space-between;
+    padding: 10px;
+    align-items: center;
+    border-radius: 13px;
+    margin-top: 20px;
+}
+
+
+#todos{
+    border: 1px solid grey;
+    padding: 15px;
+}
